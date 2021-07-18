@@ -107,7 +107,7 @@ margin:0 auto;
 width:970px;
 }
 	
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf_viewer.css" integrity="sha512-236PURuwku7CBgHDurcEqBtPljGwgurCoAbwNY62qo1/H0H/5WwYcQXnuSHWBQI270lXgnLd56OpjAjIcoaMPw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 	
 </style>
 
@@ -313,21 +313,6 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 <script src="https://torokoid.github.io/shiba/my.js"></script>
 
 <!--HPでPDFを表示させるためのJavaScriptを呼び込むための書式-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.min.js" integrity="sha512-U5C477Z8VvmbYAoV4HDq17tf4wG6HXPC6/KM9+0/wEXQQ13gmKY2Zb0Z2vu0VNUWch4GlJ+Tl/dfoLOH4i2msw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.js" integrity="sha512-or6dZINrKDVWLBVCUIVHNwEf0qJtwBWvw9Edd/s2QCZYBl9lJgQZZqNQY2ZOWW8tF5Yoq6I8adPpC9ELlY325w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.sandbox.js" integrity="sha512-JITnTSR5NqqK/WHKXRehyF+r/3fK+FhC4jiL5YrlfhpcdPzW/r7kd7Ljv8UfxeRmVbYNFcMb79t2LHJukIh5xw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.sandbox.min.js" integrity="sha512-BF/bWXeDqxI+uMBawd/yOd9hTbQm+1WiDMM1ZKS+WlmaDxGP8pPBbgM4uK4FIzJ+cqtp1+aohgyPI7mC3+2xag==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.worker.entry.js" integrity="sha512-6P+RcYYDCxpRwRW5WQBiSXpxjIKI2HpvTxAEXPlpzj+iEU26pAS5PCn6E2iVnRK2bJyzAof5TQyfzafaMJIs3w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.worker.js" integrity="sha512-w4WByro84v4oDeAcMT08XbRfqq1O3aXN62vUu5YrMv9XBJ6uFNGQA373e0sl56S7AobpnxtfMKozoLZNYIVxFA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf_viewer.js" integrity="sha512-NQwVEQsQO49y+jywJ1k/+wS55XU8C56z5HJwNQ0tPrRzrdUpD47xXsc1hD9/KNT5mrpPUMvOuWm5WOYRwzy3Iw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf_viewer.css" integrity="sha512-236PURuwku7CBgHDurcEqBtPljGwgurCoAbwNY62qo1/H0H/5WwYcQXnuSHWBQI270lXgnLd56OpjAjIcoaMPw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </body>
 

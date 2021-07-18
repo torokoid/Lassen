@@ -323,6 +323,8 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.worker.js" integrity="sha512-w4WByro84v4oDeAcMT08XbRfqq1O3aXN62vUu5YrMv9XBJ6uFNGQA373e0sl56S7AobpnxtfMKozoLZNYIVxFA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf_viewer.js" integrity="sha512-NQwVEQsQO49y+jywJ1k/+wS55XU8C56z5HJwNQ0tPrRzrdUpD47xXsc1hD9/KNT5mrpPUMvOuWm5WOYRwzy3Iw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 </body>
 
 </html>

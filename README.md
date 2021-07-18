@@ -182,11 +182,11 @@ width:970px;
 
 
 <h6>
-<p align="right"> <span class="snow">背景は7月初旬の紫陽花！</span></p>
+<p align="right"> <span class="snow">2021/07/08~12、展示会＆商談会@宇都宮市マロニエプラザ！</span></p>
 </h6>
 <!-- フッタ -->
 <footer>
-	<span class="white"> 2021/07/15 S.Hada</span>
+	<span class="white"> 2021/07/18 S.Hada</span>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->

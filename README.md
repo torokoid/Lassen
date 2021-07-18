@@ -145,7 +145,7 @@ width:970px;
 <a href="20210710_001.JPG" data-lightbox="abc"><img src="20210710_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_002.JPG" data-lightbox="abc"><img src="20210710_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_003.JPG" data-lightbox="abc"><img src="20210710_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_004.JPG" data-lightbox="abc"><img src="20210710_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210710_020.JPG" data-lightbox="abc"><img src="20210710_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_005.JPG" data-lightbox="abc"><img src="20210710_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_006.JPG" data-lightbox="abc"><img src="20210710_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_007.JPG" data-lightbox="abc"><img src="20210710_007.JPG" alt="サンプル画像" width="900" /></a>
@@ -161,7 +161,6 @@ width:970px;
 <a href="20210710_017.JPG" data-lightbox="abc"><img src="20210710_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_018.JPG" data-lightbox="abc"><img src="20210710_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_019.JPG" data-lightbox="abc"><img src="20210710_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_020.JPG" data-lightbox="abc"><img src="20210710_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210710_021.JPG" data-lightbox="abc"><img src="20210710_021.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br>

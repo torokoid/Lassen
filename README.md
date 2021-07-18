@@ -315,6 +315,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.js" integrity="sha512-or6dZINrKDVWLBVCUIVHNwEf0qJtwBWvw9Edd/s2QCZYBl9lJgQZZqNQY2ZOWW8tF5Yoq6I8adPpC9ELlY325w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.sandbox.js" integrity="sha512-JITnTSR5NqqK/WHKXRehyF+r/3fK+FhC4jiL5YrlfhpcdPzW/r7kd7Ljv8UfxeRmVbYNFcMb79t2LHJukIh5xw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 </body>
 

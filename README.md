@@ -157,7 +157,7 @@ width:970px;
 <p>１，の続きですが、Githubのアカウント内にリポジトリ（≒HP）を作ります。</p>
 <p><h2>では、新しいリポジトリを作ってみましょう。<br>
 以下のようにクリックして、</h2></p>
-<a href="https://dorikawa.github.io/HP_build/20210709_006.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_006.png" alt="サンプル画像" width="900" /></a>
+<a href="https://dorikawa.github.io/Lassen/IMG.pdf" data-lightbox="abc"><img src="https://dorikawa.github.io/Lassen/IMG.pdf" alt="サンプル画像" width="900" /></a>
 <p><h2>リポジトリの名前を適当に決めて入力、<br>
 下の二箇所にチェックを入れます。最後に一番下の緑のボタンを押して作成完了です。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_002.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_002.png" alt="サンプル画像" width="900" /></a>

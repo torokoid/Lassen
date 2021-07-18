@@ -313,6 +313,56 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 <script src="https://torokoid.github.io/shiba/my.js"></script>
 
 <!--HPでPDFを表示させるためのJavaScriptを呼び込むための書式-->
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+pdfjsLib.GlobalWorkerOptions.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
+
+var loadingTask = pdfjsLib.getDocument({data: {IMG.pdf)} });
+loadingTask.promise.then(function(pdf) {
+  pdfDoc = pdf;
+  renderPage(pageNum);
+});
+
+function renderPage(num){
+  pdfDoc.getPage(num).then(function(page) {
+    var viewport = page.getViewport({scale: scale});
+    var renderContext = {
+      canvasContext: ctx,
+      viewport: viewport
+    };
+    var renderTask = page.render(renderContext);
+    renderTask.promise.then(
+      function () {
+        console.log('Page rendered');
+      }
+    );
+  });
+}
+
+<script src="ui_utils.js" type="text/javascript"></script>
+<link rel="stylesheet" href="text_layer_builder.css">
+<script src="text_layer_builder.js" type="text/javascript"></script>
+
+page.render(renderContext)
+　.then(function () { return page.getTextContent(); })
+　.then(
+　　function (textContent) {
+　　　var textLayerDiv = document.createElement("div");
+　　　textLayerDiv.setAttribute("id", "text-Layer");
+　　　textLayerDiv.setAttribute("class", "textLayer");
+ 
+　　　var containerDiv = document.getElementById({pdfのcanvas});
+　　　containerDiv.appendChild(textLayerDiv);
+ 
+　　　var textLayer = new TextLayerBuilder({
+　　　　textLayerDiv: textLayerDiv, 
+　　　　pageIndex: page.pageIndex,
+　　　　viewport: viewport
+　　　});
+ 
+　　textLayer.setTextContent(textContent);
+　　textLayer.render();
+})
+
 
 </body>
 

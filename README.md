@@ -173,13 +173,7 @@ width:970px;
 
 
 
-<div style="background-color:rgba(128,255,255,0.8)"> 
-<p>おまけ、ドリームかわち水泳教室、瀧田先生の「森のくるまやさん」リンク</p>
-<h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。<br>オプション部品は¥200とのこと。</a></h2>
-<p><h2>職人さん仕上げの完成見本です。</h2></p>
-<a href="20210715_001.png" data-lightbox="abc"><img src="20210715_001.png" alt="サンプル画像" width="900" /></a>
 
-</div>
 <!--</div>-->
 <!--本体はここまで-->
 
@@ -204,56 +198,9 @@ width:970px;
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>
 
-<!--HPでPDFを表示させるためのJavaScriptを呼び込むための書式-->
-var pdfjsLib = window['pdfjs-dist/build/pdf'];
-pdfjsLib.GlobalWorkerOptions.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
 
-var loadingTask = pdfjsLib.getDocument({data: {IMG.pdf)} });
-loadingTask.promise.then(function(pdf) {
-  pdfDoc = pdf;
-  renderPage(pageNum);
-});
 
-function renderPage(num){
-  pdfDoc.getPage(num).then(function(page) {
-    var viewport = page.getViewport({scale: scale});
-    var renderContext = {
-      canvasContext: ctx,
-      viewport: viewport
-    };
-    var renderTask = page.render(renderContext);
-    renderTask.promise.then(
-      function () {
-        console.log('Page rendered');
-      }
-    );
-  });
-}
 
-<script src="ui_utils.js" type="text/javascript"></script>
-<link rel="stylesheet" href="text_layer_builder.css">
-<script src="text_layer_builder.js" type="text/javascript"></script>
-
-page.render(renderContext)
-　.then(function () { return page.getTextContent(); })
-　.then(
-　　function (textContent) {
-　　　var textLayerDiv = document.createElement("div");
-　　　textLayerDiv.setAttribute("id", "text-Layer");
-　　　textLayerDiv.setAttribute("class", "textLayer");
- 
-　　　var containerDiv = document.getElementById({pdfのcanvas});
-　　　containerDiv.appendChild(textLayerDiv);
- 
-　　　var textLayer = new TextLayerBuilder({
-　　　　textLayerDiv: textLayerDiv, 
-　　　　pageIndex: page.pageIndex,
-　　　　viewport: viewport
-　　　});
- 
-　　textLayer.setTextContent(textContent);
-　　textLayer.render();
-})
 
 
 </body>

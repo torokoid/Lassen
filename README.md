@@ -134,7 +134,7 @@ width:970px;
 <p align="left"> <img src="qr2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>-->
 	
 
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~mibu</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! Lassen パンフレット !!!</marquee></span></h1>
@@ -186,7 +186,7 @@ width:970px;
 </h6>
 <!-- フッタ -->
 <footer>
-	<span class="white"> 2021/07/18 S.Hada</span>
+	<span class="white"> 2021/07/21 T.Mibu</span>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->

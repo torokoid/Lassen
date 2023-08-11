@@ -137,7 +137,7 @@ width:970px;
 <p align="right"><marquee direction="left" scrollamount="10" width="30%">(^_^)/~Torokoid_Mibu</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! Lassen パンフレット !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! Lassen パンフレット !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->

@@ -131,7 +131,7 @@ width:970px;
 
 <!--QRコードの挿入例-->
 
-<p align="left"> <img src="qr_lassen.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_lassen.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 	
 
 <p align="right"><marquee direction="left" scrollamount="10" width="30%">(^_^)/~Torokoid_Mibu</marquee></p>

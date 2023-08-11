@@ -130,8 +130,8 @@ width:970px;
 <p><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/">2021年宇都宮市民大会</a>><a href="https://dorikawa.github.io/HP_build/">IT関連情報IT関連情報</a>>HPの作り方</p>
 
 <!--QRコードの挿入例-->
-<!--
-<p align="left"> <img src="qr2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>-->
+
+<p align="left"> <img src="qr_lassen.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 	
 
 <p align="right"><marquee direction="left" scrollamount="10" width="30%">(^_^)/~Torokoid_Mibu</marquee></p>
